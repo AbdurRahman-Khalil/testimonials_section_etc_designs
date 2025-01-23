@@ -50,7 +50,7 @@
     transform: translate(-50%, -50%);
 
     font-size: clamp(10rem, calc(18vw + 12rem), 28rem);
-    opacity: 0.035;
+    opacity: 0.03;
 
     transition: 0.3s ease-out;
 }
@@ -89,9 +89,9 @@ section > #testimonials-container {
 }
 
 .testimonial > p {
-    font-size: clamp(0.8rem, calc(6.5vw + 0.65rem), 1.035rem);
+    font-size: clamp(0.8rem, calc(7vw + 0.7rem), 1.035rem);
     font-weight: 300;
-    letter-spacing: 0.065rem;
+    letter-spacing: 0.07rem;
 
     margin-bottom: 1.5rem;
 
@@ -101,7 +101,7 @@ section > #testimonials-container {
 .testimonial > h3 {
     font-weight: 400;
     letter-spacing: 0.08rem;
-    font-size: clamp(0.95rem, calc(7.5vw + 0.75rem), 1.2rem);
+    font-size: clamp(0.95rem, calc(8vw + 0.8rem), 1.2rem);
 
     transition: 0.15s ease-out;
 }
@@ -109,16 +109,16 @@ section > #testimonials-container {
 section > h1 {
     position: relative;
     
-    font-size: clamp(1.6rem, calc(9vw + 1rem), 2.7rem);
+    font-size: clamp(1.6rem, calc(9.5vw + 1.5rem), 2.8rem);
     font-weight: 600;
-    letter-spacing: 0.08rem;
+    letter-spacing: 0.09rem;
+    text-transform: uppercase;
 
     max-width: fit-content;
 
-    margin-top: 0.3rem;
+    margin-top: 0.25rem;
     margin-bottom: 3.3rem;
     margin-inline: auto;
-
 
     transition: 0.15s ease-out;
 }
