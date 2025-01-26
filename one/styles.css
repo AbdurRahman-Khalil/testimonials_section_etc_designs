@@ -133,7 +133,7 @@
     
     width: clamp(1.2rem, calc(8.5vw + 1rem), 3rem);
     margin-bottom: 1rem;
-    opacity: 0.18;
+    opacity: 0.165;
     pointer-events: none;
     
     transition: 0.3s ease-out;
